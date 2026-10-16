@@ -292,6 +292,7 @@
 .organisation-name {
   color: var(--color-ink);
   font-weight: var(--weight-semibold);
+  white-space: normal;
 }
 
 .organisation-id {
