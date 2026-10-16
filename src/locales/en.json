@@ -1,0 +1,65 @@
+{
+  "app": {
+    "brand": "Commonplace",
+    "eyebrow": "Organisation management",
+    "title": "Organisation directory",
+    "subtitle": "A clear view of the organisations that make our network stronger."
+  },
+  "directory": {
+    "searchLabel": "Search organisations",
+    "searchPlaceholder": "Name, owner or ID",
+    "statusLabel": "Status",
+    "allStatuses": "All statuses",
+    "organisationCount": "organisations",
+    "showing": "Showing {from}–{to} of {total}",
+    "idPrefix": "ID {id}",
+    "previous": "Previous page",
+    "next": "Next page",
+    "page": "Page {current} of {total}",
+    "emptyTitle": "No organisations found",
+    "emptyBody": "Try changing your search or status filter.",
+    "loading": "Loading organisations…",
+    "loadError": "We couldn’t load the directory. Please try again.",
+    "retry": "Try again",
+    "columns": {
+      "organisation": "Organisation",
+      "owner": "Owner email",
+      "members": "Members",
+      "created": "Date added",
+      "status": "Status"
+    },
+    "invalidRecord": "Some source details need review",
+    "duplicateId": "Duplicate ID",
+    "unavailable": "Unavailable",
+    "blankName": "Name unavailable",
+    "invalidMemberCount": "Count unavailable",
+    "invalidOwner": "Owner unavailable",
+    "invalidDate": "Date unavailable"
+  },
+  "status": {
+    "Active": "Active",
+    "Inactive": "Inactive",
+    "Suspended": "Suspended",
+    "Unknown": "Unknown"
+  },
+  "form": {
+    "open": "Add organisation",
+    "title": "Add an organisation",
+    "name": "Organisation name",
+    "namePlaceholder": "e.g. Acme Collective",
+    "memberCount": "Member count",
+    "memberCountPlaceholder": "0",
+    "ownerEmail": "Owner email",
+    "ownerEmailPlaceholder": "name@example.org",
+    "status": "Status",
+    "submit": "Save organisation",
+    "cancel": "Cancel",
+    "required": "This field is required.",
+    "invalidCount": "Enter a non-negative whole number.",
+    "invalidEmail": "Enter a valid email address.",
+    "saved": "Organisation added to the directory."
+  },
+  "navigation": {
+    "skip": "Skip to directory"
+  }
+}
